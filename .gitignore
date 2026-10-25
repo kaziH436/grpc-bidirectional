@@ -1,0 +1,4 @@
+*.exe
+*.class
+*.proto
+!stock_trading.proto
